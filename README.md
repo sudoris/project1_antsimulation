@@ -1,5 +1,5 @@
 Description:
-Implementation of a simulation of Langton's Ant - read more on Wikipedia --> https://en.wikipedia.org/wiki/Langton%27s_ant
+Implementation of a simulation of Langton's Ant, read more about Langton's Ant on Wikipedia: https://en.wikipedia.org/wiki/Langton%27s_ant
 
 Author: 
 David Chen
